@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "first_name": "Tomlin",
+        "last_name": "Izat",
+        "email": "tizat0@trellian.com",
+        "gender": "Male",
+        "salary": 15000
+    },
+    {
+        "id": 2,
+        "first_name": "Lauritz",
+        "last_name": "Edson",
+        "email": "ledson1@google.de",
+        "gender": "Polygender",
+        "salary": 12000
+    },
+    {
+        "id": 3,
+        "first_name": "Elinor",
+        "last_name": "Ciotto",
+        "email": "eciotto2@hhs.gov",
+        "gender": "Female",
+        "salary": 18000
+    },
+    {
+        "id": 4,
+        "first_name": "Jordain",
+        "last_name": "Prigg",
+        "email": "jprigg3@prnewswire.com",
+        "gender": "Female",
+        "salary": 20000
+    },
+    {
+        "id": 5,
+        "first_name": "Kenton",
+        "last_name": "Labram",
+        "email": "klabram4@guardian.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Bryon",
+        "last_name": "Pawlett",
+        "email": "bpawlett5@sphinn.com",
+        "gender": "Male",
+        "salary": 16000
+    },
+    {
+        "id": 7,
+        "first_name": "Angie",
+        "last_name": "McCullogh",
+        "email": "amccullogh6@nbcnews.com",
+        "gender": "Male",
+        "salary": 14000
+    },
+    {
+        "id": 8,
+        "first_name": "Hobard",
+        "last_name": "Gaul",
+        "email": "hgaul7@ocn.ne.jp",
+        "gender": "Non-binary",
+        "salary": 10000
+    },
+    {
+        "id": 9,
+        "first_name": "Harper",
+        "last_name": "Axten",
+        "email": "haxten8@w3.org",
+        "gender": "Genderqueer",
+        "salary": 15000
+    },
+    {
+        "id": 10,
+        "first_name": "Cyrus",
+        "last_name": "McCalister",
+        "email": "cmccalister9@sakura.ne.jp",
+        "gender": "Male",
+        "salary": 17000
+    }
+]
